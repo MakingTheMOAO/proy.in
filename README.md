@@ -15,7 +15,8 @@ El valor en cada celda de la matriz corresponde a la calificación que el usuari
 
 Esto es con la intención de crear un modelo de Machine Learning que prediga si a un usuario en concreto se le recomienda o no una pelicula en particular.
 Para construir el modelo, se utiliza un algoritmo de KNN (K-Nearest Neighbors) o K-Vecinos más cercanos
-El modelo KNN se basa en la premisa de que si a un usuario le gustaron ciertas películas en el pasado, es probable que le gusten películas similares en el futuro. 
+El modelo KNN se basa en la premisa de que si a un usuario le gustaron ciertas películas en el pasado, es probable que le gusten películas similares en el futuro.  
+
 En este enfoque, las similitudes entre los usuarios y las películas se calculan a partir de las interacciones pasadas entre ellos. Por ejemplo, si dos usuarios han visto y puntuado positivamente las mismas películas en el pasado, es probable que compartan gustos similares.
 
 Finalmente, se utiliza Gradio para construir una interfaz web que permite al usuario ingresar su id de usuario y el id de la película que desea consultar, y el sistema devuelve si la película es recomendada o no para dicho usuario.
@@ -37,6 +38,8 @@ Para utilizar el sistema de recomendación o las funciones API, sigue los siguie
 5. Elige entre las funciones de la API o el sistema de recomendación: Get_recommendation.
 6. Ingresa tu id de usuario y el id de la película que deseas consultar.
 7. El sistema te indicará si la película es recomendada o no para ti.
+![image](https://user-images.githubusercontent.com/106265124/226214107-98f6a695-da4c-4a43-9f18-4c5cc14fafbd.png)
+
 
 # Valores a ingresar:
 - Al ingresar años, preferentemente usar valores mayores a 1950, a veces puede dar error a causa de la carencia de títulos en años anteriores.
@@ -47,6 +50,6 @@ Para utilizar el sistema de recomendación o las funciones API, sigue los siguie
 - Al ingresar peliculas, as1234: amazon, ds1234: disney, hs1234: hulu, ns1234: netflix. 
 
 # Autor
-Emiliano David Tisera
-Correo: tisera.emilianodavid@gmail.com
+Emiliano David Tisera  
+Correo: tisera.emilianodavid@gmail.com  
 Linked In :https://www.linkedin.com/in/emiliano-tisera-aa8337224/
