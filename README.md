@@ -1,6 +1,8 @@
 ## Proyecto de APIs y Machine Learning (ft. soyHenry)
 Este es un proyecto basado en python que tiene como objetivo construir una API y un sistema de recomendación de películas para usuarios
 
+link del vídeo DEMO: https://www.canva.com/design/DAFdw6m6T6s/YSCyXKs-_Jh-rgBO3aN5dA/edit?utm_content=DAFdw6m6T6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Descripción
 El proyecto utiliza datasets con información de calificaciones de películas de varios usuarios, y con información general de las peliculas existentes en las plataformas Amazon, Disney, Hulu, Netflix. 
 A partir de estos datasets, se construyen cuatro funciones:
