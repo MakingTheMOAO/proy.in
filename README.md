@@ -42,6 +42,7 @@ Para utilizar el sistema de recomendación o las funciones API, sigue los siguie
 7. El sistema te indicará si la película es recomendada o no para ti.
 ![image](https://user-images.githubusercontent.com/106265124/226214107-98f6a695-da4c-4a43-9f18-4c5cc14fafbd.png)
 
+Si no, usa el link del deplot en render: https://proy-in-moao.onrender.com
 
 # Valores a ingresar:
 - Al ingresar años, preferentemente usar valores mayores a 1950, a veces puede dar error a causa de la carencia de títulos en años anteriores.
