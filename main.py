@@ -170,7 +170,7 @@ async def get_actor(platform: str, year: int):
     else:
         
         return 'Plataformas disponibles: "amazon", "disney", "hulu" y "netflix"'
-
+@app.get('/get_recommendation/{user_id}/{movie_id}')
 def get_recommendation(user_id, movie_id):
     # Obtener los datos de ratings de los usuarios
     user_ratings = df_ratings[df_ratings['userId'] == user_id]
