@@ -5,14 +5,14 @@ import numpy as np
 
 # Cargar los Datasets
 # Ratins:
-df1 = pd.read_csv(r"ratings\1.csv")
-df2 = pd.read_csv(r"ratings\2.csv")
-df3 = pd.read_csv(r"ratings\3.csv")
-df4 = pd.read_csv(r"ratings\4.csv")
-df5 = pd.read_csv(r"ratings\5.csv")
-df6 = pd.read_csv(r"ratings\6.csv")
-df7 = pd.read_csv(r"ratings\7.csv")
-df8 = pd.read_csv(r"ratings\8.csv")
+df1 = pd.read_csv(r"proy.in/ratings\1.csv")
+df2 = pd.read_csv(r"proy.in/ratings\2.csv")
+df3 = pd.read_csv(r"proy.in/ratings\3.csv")
+df4 = pd.read_csv(r"proy.in/ratings\4.csv")
+df5 = pd.read_csv(r"proy.in/ratings\5.csv")
+df6 = pd.read_csv(r"proy.in/ratings\6.csv")
+df7 = pd.read_csv(r"proy.in/ratings\7.csv")
+df8 = pd.read_csv(r"proy.in/ratings\8.csv")
 
 
 
